@@ -1,0 +1,28 @@
+00:17:36 INFO  application.ApplicationManager - Start CHROME browser
+00:17:38 INFO  application.ApplicationManager - Navigate to --> https://contacts-app.tobbymarshall815.vercel.app/home
+00:17:38 INFO  tests.TestBase - Start method  --> loginTestBase
+00:17:49 INFO  tests.TestBase - Login with --> email: "anat@gmail.com", password: "Aa12345$"
+00:17:50 INFO  tests.TestBase - End of method --> loginTestBase
+00:17:50 INFO  tests.TestBase - Start method  --> loginTestDP_CSV
+00:17:51 INFO  tests.TestBase - Login with --> email: "anat@gmail.com", password: "Aa12345$"
+00:17:51 INFO  tests.TestBase - End of method --> loginTestDP_CSV
+00:17:51 INFO  tests.TestBase - Start method  --> loginTestDP_CSV
+00:17:51 INFO  tests.TestBase - Login with --> email: "anata@gmail.com", password: "Aa12345$"
+00:17:51 INFO  tests.TestBase - End of method --> loginTestDP_CSV
+00:17:51 INFO  tests.TestBase - Start method  --> loginTestDP_CSV
+00:17:52 INFO  tests.TestBase - Login with --> email: "anatan@gmail.com", password: "Aa12345$"
+00:17:52 INFO  tests.TestBase - End of method --> loginTestDP_CSV
+00:17:52 INFO  tests.TestBase - Start method  --> loginTestDataProviderClass
+00:17:53 INFO  tests.TestBase - End of method --> loginTestDataProviderClass
+00:17:53 INFO  tests.TestBase - Start method  --> loginTestDataProviderClass
+00:17:54 INFO  tests.TestBase - End of method --> loginTestDataProviderClass
+00:17:54 INFO  tests.TestBase - Start method  --> loginTestDataProviderClass
+00:17:54 INFO  tests.TestBase - End of method --> loginTestDataProviderClass
+00:18:02 INFO  application.ApplicationManager - Start CHROME browser
+00:18:03 INFO  application.ApplicationManager - Navigate to --> https://contacts-app.tobbymarshall815.vercel.app/home
+00:18:03 INFO  tests.TestBase - Start method  --> quicktest
+00:18:03 INFO  tests.TestBase - End of method --> quicktest
+00:18:05 INFO  application.ApplicationManager - Start CHROME browser
+00:18:08 INFO  application.ApplicationManager - Navigate to --> https://contacts-app.tobbymarshall815.vercel.app/home
+00:18:08 INFO  tests.TestBase - Start method  --> smokeTest
+00:18:08 INFO  tests.TestBase - End of method --> smokeTest

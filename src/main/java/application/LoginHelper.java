@@ -3,6 +3,8 @@ package application;
 import models.User;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class LoginHelper extends HelperBase {
     public LoginHelper(WebDriver wd) {
@@ -28,10 +30,14 @@ public class LoginHelper extends HelperBase {
     }
 
     public boolean isLogged() {
-        return wd.findElements(By.xpath("//a[.='LOGIN']")).size() > 0;
+        return wd.findElements(By.xpath("//*[.='Sign Out']")).size() > 0;
     }
 
     public void logout() {
         click(By.xpath("//*[.='Sign Out']"));
+    }
+
+    public void waitForVisiblity(By locator) {
+        new WebDriverWait(wd, 10).until(ExpectedConditions.visibilityOf(wd.findElement(locator)));
     }
 }

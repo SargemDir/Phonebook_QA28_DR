@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.QuickTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-12T14:56:14" hostname="WIN-VLIAFR1P8UG" time="0.0">
+  <properties/>
+  <testcase name="quicktest" classname="tests.QuickTest" time="0.0"/>
+  <system-out><![CDATA[17:56:11 [Test worker] INFO  application.AppManager - Start in browser CHROME
+17:56:14 [Test worker] INFO  tests.TestBase - Start method  --> quicktest
+Im Quick test
+17:56:14 [Test worker] INFO  tests.TestBase - End of method --> quicktest
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634}) on port 26047
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Aug 12, 2021 5:56:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

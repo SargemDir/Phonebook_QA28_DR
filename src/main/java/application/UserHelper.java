@@ -6,8 +6,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class LoginHelper extends HelperBase {
-    public LoginHelper(WebDriver wd) {
+public class UserHelper extends HelperBase {
+    public UserHelper(WebDriver wd) {
         super(wd);
     }
 
@@ -39,5 +39,13 @@ public class LoginHelper extends HelperBase {
 
     public void waitForVisiblity(By locator) {
         new WebDriverWait(wd, 10).until(ExpectedConditions.visibilityOf(wd.findElement(locator)));
+    }
+
+    public void login(User user) {
+        openLoginForm();
+        fillLoginForm(user);
+        clickOkButtonLogIn();
+        new WebDriverWait(wd, 10).until(ExpectedConditions.visibilityOf(wd.findElement(By.xpath("//*[.='ADD']"))));
+
     }
 }

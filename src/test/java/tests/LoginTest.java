@@ -14,10 +14,10 @@ import java.util.List;
 
 public class LoginTest extends TestBase {
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void precondition() {
-        if (app.loginHelper().isLogged()) {
-            app.loginHelper().logout();
+        if (app.userHelper().isLogged()) {
+            app.userHelper().logout();
         }
     }
 
@@ -27,12 +27,12 @@ public class LoginTest extends TestBase {
                 .withEmail("anat@gmail.com")
                 .withPassword("Aa12345$");
 
-        app.loginHelper().openLoginForm();
-        app.loginHelper().fillLoginForm(user);
+        app.userHelper().openLoginForm();
+        app.userHelper().fillLoginForm(user);
         logger.info("Login with --> email: \"" + user.getEmail() + "\", password: \"" + user.getPassword() + "\"");
-        app.loginHelper().clickOkButtonLogIn();
-        app.loginHelper().waitForVisiblity(By.xpath("//*[.='Sign Out']"));
-        Assert.assertTrue(app.loginHelper().isLogged());
+        app.userHelper().clickOkButtonLogIn();
+        app.userHelper().waitForVisiblity(By.xpath("//*[.='Sign Out']"));
+        Assert.assertTrue(app.userHelper().isLogged());
     }
 
 
@@ -43,21 +43,21 @@ public class LoginTest extends TestBase {
                 .withEmail(email)
                 .withPassword(password);
 
-        app.loginHelper().openLoginForm();
-        app.loginHelper().fillLoginForm(user);
+        app.userHelper().openLoginForm();
+        app.userHelper().fillLoginForm(user);
 //        logger.info("Login with --> email: \"" + user.getEmail() + "\", password: \"" + user.getPassword() + "\"");
-        app.loginHelper().clickOkButtonLogIn();
-        app.loginHelper().waitForVisiblity(By.xpath("//a[.='CONTACTS']"));
-        Assert.assertTrue(app.loginHelper().isLogged());
+        app.userHelper().clickOkButtonLogIn();
+        app.userHelper().waitForVisiblity(By.xpath("//a[.='CONTACTS']"));
+        Assert.assertTrue(app.userHelper().isLogged());
     }
 
     @Test(dataProvider = "dataFileCSV", dataProviderClass = MyDataProvider.class)
     public void loginTestDP_CSV(User user) {
-        app.loginHelper().openLoginForm();
-        app.loginHelper().fillLoginForm(user);
+        app.userHelper().openLoginForm();
+        app.userHelper().fillLoginForm(user);
         logger.info("Login with --> email: \"" + user.getEmail() + "\", password: \"" + user.getPassword() + "\"");
-        app.loginHelper().clickOkButtonLogIn();
-        app.loginHelper().waitForVisiblity(By.xpath("//*[.='Sign Out']"));
-        Assert.assertTrue(app.loginHelper().isLogged());
+        app.userHelper().clickOkButtonLogIn();
+        app.userHelper().waitForVisiblity(By.xpath("//*[.='Sign Out']"));
+        Assert.assertTrue(app.userHelper().isLogged());
     }
 }

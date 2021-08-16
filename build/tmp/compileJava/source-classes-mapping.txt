@@ -9,9 +9,9 @@ application/MyDataProvider.java
  application.MyDataProvider
 application/MyListener.java
  application.MyListener
-application/UserHelper.java
- application.UserHelper
 application/AppManager.java
  application.AppManager
+application/UserHelper.java
+ application.UserHelper
 application/ContactHelper.java
  application.ContactHelper

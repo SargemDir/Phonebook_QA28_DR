@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.QuickTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-06T11:32:50" hostname="WIN-VLIAFR1P8UG" time="0.0">
+<testsuite name="tests.QuickTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-16T15:31:04" hostname="WIN-VLIAFR1P8UG" time="0.001">
   <properties/>
-  <testcase name="quicktest" classname="tests.QuickTest" time="0.0"/>
-  <system-out><![CDATA[Im Quick test
+  <testcase name="quicktest" classname="tests.QuickTest" time="0.001"/>
+  <system-out><![CDATA[18:31:01 [Test worker] INFO  application.AppManager - Start in browser FIREFOX
+18:31:04 [Test worker] INFO  tests.TestBase - Start method  --> quicktest
+Im Quick test
+18:31:04 [Test worker] INFO  tests.TestBase - End of method --> quicktest
 ]]></system-out>
-  <system-err><![CDATA[1628249563593	geckodriver	INFO	Listening on 127.0.0.1:43641
-1628249564293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileB1V4CH"
-1628249565018	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileB1V4CH\\search.json.mozlz4", (void 0)))
-1628249568434	Marionette	INFO	Listening on port 54350
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
-
-1628249569207	Marionette	WARN	TLS certificate errors will be ignored for this session
-Aug 06, 2021 2:32:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+  <system-err><![CDATA[1629127853887	geckodriver	INFO	Listening on 127.0.0.1:44761
+1629127854215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilej1lPZt"
+1629127856253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilej1lPZt\\search.json.mozlz4", (void 0)))
+1629127861128	Marionette	INFO	Listening on port 50478
+1629127861673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Aug 16, 2021 6:31:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>

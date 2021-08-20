@@ -9,6 +9,8 @@
             <class name="tests.SmokeTest"/>
             <class name="tests.QuickTest"/>
             <class name="tests.LoginTest"/>
+            <class name="tests.AddContactTest"/>
+            <class name="tests.RemoveContactTest"/>
         </classes>
     </test>
 </suite>

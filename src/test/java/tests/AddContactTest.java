@@ -3,6 +3,7 @@ package tests;
 import application.MyDataProvider;
 import models.Contact;
 import models.User;
+import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -30,6 +31,8 @@ public class AddContactTest extends TestBase {
         app.ContactHelper().openFormContact();
         app.ContactHelper().fillFormContact(contact);
         app.ContactHelper().saveContact();
+        app.ContactHelper().pause(2000);
+
 
         app.ContactHelper().openFormContact();
         app.ContactHelper().fillFormContact(contact);
@@ -52,7 +55,7 @@ public class AddContactTest extends TestBase {
     }
 
     @Test
-    public void NegativeAddContactWithoutEmail(){
+    public void NegativeAddContactWithoutEmail() {
         Contact contact = Contact.builder()
                 .name("Ron")
                 .lastname("Ronta")

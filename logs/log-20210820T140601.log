@@ -1,0 +1,86 @@
+14:06:07 INFO  application.AppManager - Start in browser CHROME
+14:06:08 INFO  tests.TestBase - Start method  --> NegativeAddSameContact
+14:06:08 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+14:06:18 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+14:06:18 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+14:06:18 INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+14:06:19 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+14:06:19 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+14:06:20 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+14:06:20 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+14:06:20 INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+14:06:20 INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+14:06:20 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='ADD']
+14:06:21 INFO  application.MyListener - The element -->By.xpath: //*[.='ADD']was found
+14:06:21 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:06:21 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:06:21 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+14:06:21 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+14:06:21 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+14:06:21 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+14:06:21 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+14:06:21 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+14:06:21 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+14:06:21 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+14:06:21 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+14:06:21 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+14:06:22 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+14:06:22 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+14:06:22 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+14:06:22 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+14:06:22 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+14:06:22 INFO  application.MyListener - The element -->By.xpath: //h3was found
+14:06:22 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:06:22 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:06:22 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+14:06:22 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+14:06:22 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+14:06:22 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+14:06:23 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+14:06:23 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+14:06:23 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+14:06:23 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+14:06:23 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+14:06:23 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+14:06:23 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+14:06:23 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+14:06:23 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+14:06:23 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+14:06:23 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+14:06:23 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+14:06:23 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+14:06:23 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+14:06:24 INFO  application.MyListener - Screen ->>src/test/screenshots/screen-383.png
+14:06:24 INFO  application.MyListener - stale element reference: element is not attached to the page document
+  (Session info: chrome=92.0.4515.159)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WIN-VLIAFR1P8UG', ip: '192.168.43.243', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.159, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62147}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3de705da642618ef7fef9eb0b51dbb89
+14:06:24 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:06:24 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:06:24 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:06:24 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:06:24 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:06:25 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:06:25 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:06:25 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:06:25 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+14:06:25 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+14:06:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:06:27 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:06:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:06:27 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:06:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:06:27 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:06:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:06:27 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:06:27 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+14:06:27 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+14:06:29 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:06:39 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:06:39 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+14:06:49 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+14:06:49 INFO  tests.TestBase - End of method --> NegativeAddSameContact

@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.QuickTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-19T00:04:12" hostname="WIN-VLIAFR1P8UG" time="0.0">
+<testsuite name="tests.QuickTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-20T10:29:50" hostname="WIN-VLIAFR1P8UG" time="0.0">
   <properties/>
   <testcase name="quicktest" classname="tests.QuickTest" time="0.0"/>
-  <system-out><![CDATA[03:04:11 [Test worker] INFO  application.AppManager - Start in browser FIREFOX
-03:04:12 [Test worker] INFO  tests.TestBase - Start method  --> quicktest
+  <system-out><![CDATA[13:29:48 [Test worker] INFO  application.AppManager - Start in browser CHROME
+13:29:50 [Test worker] INFO  tests.TestBase - Start method  --> quicktest
 Im Quick test
-03:04:12 [Test worker] INFO  tests.TestBase - End of method --> quicktest
+13:29:50 [Test worker] INFO  tests.TestBase - End of method --> quicktest
 ]]></system-out>
-  <system-err><![CDATA[1629331446965	geckodriver	INFO	Listening on 127.0.0.1:32287
-1629331447482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZ49YtW"
-1629331448078	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZ49YtW\\search.json.mozlz4", (void 0)))
-1629331451104	Marionette	INFO	Listening on port 62368
-1629331451395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-Aug 19, 2021 3:04:11 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+  <system-err><![CDATA[Starting ChromeDriver 92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634}) on port 34461
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Aug 20, 2021 1:29:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>

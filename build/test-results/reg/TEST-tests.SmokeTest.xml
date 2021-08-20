@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.SmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-16T15:30:50" hostname="WIN-VLIAFR1P8UG" time="0.001">
+<testsuite name="tests.SmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-19T00:02:53" hostname="WIN-VLIAFR1P8UG" time="0.0">
   <properties/>
-  <testcase name="smokeTest" classname="tests.SmokeTest" time="0.001"/>
-  <system-out><![CDATA[18:30:48 [Test worker] INFO  application.AppManager - Start in browser FIREFOX
-18:30:50 [Test worker] INFO  tests.TestBase - Start method  --> smokeTest
+  <testcase name="smokeTest" classname="tests.SmokeTest" time="0.0"/>
+  <system-out><![CDATA[03:02:52 [Test worker] INFO  application.AppManager - Start in browser FIREFOX
+03:02:53 [Test worker] INFO  tests.TestBase - Start method  --> smokeTest
 Im Smoke Test 
-18:30:50 [Test worker] INFO  tests.TestBase - End of method --> smokeTest
+03:02:53 [Test worker] INFO  tests.TestBase - End of method --> smokeTest
 ]]></system-out>
-  <system-err><![CDATA[1629127822420	geckodriver	INFO	Listening on 127.0.0.1:18289
-1629127824037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4dCTyr"
-1629127828466	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4dCTyr\\search.json.mozlz4", (void 0)))
-1629127846750	Marionette	INFO	Listening on port 63083
-1629127847585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-Aug 16, 2021 6:30:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+  <system-err><![CDATA[1629331366747	geckodriver	INFO	Listening on 127.0.0.1:48107
+1629331367532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerzPrRi"
+1629331368084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilerzPrRi\\search.json.mozlz4", (void 0)))
+1629331372260	Marionette	INFO	Listening on port 62339
+1629331372343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Aug 19, 2021 3:02:52 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>

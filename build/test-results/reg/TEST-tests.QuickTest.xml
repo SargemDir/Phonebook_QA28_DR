@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.QuickTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-20T10:29:50" hostname="WIN-VLIAFR1P8UG" time="0.0">
+<testsuite name="tests.QuickTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-20T11:12:06" hostname="WIN-VLIAFR1P8UG" time="0.001">
   <properties/>
-  <testcase name="quicktest" classname="tests.QuickTest" time="0.0"/>
-  <system-out><![CDATA[13:29:48 [Test worker] INFO  application.AppManager - Start in browser CHROME
-13:29:50 [Test worker] INFO  tests.TestBase - Start method  --> quicktest
+  <testcase name="quicktest" classname="tests.QuickTest" time="0.001"/>
+  <system-out><![CDATA[14:12:05 [Test worker] INFO  application.AppManager - Start in browser CHROME
+14:12:06 [Test worker] INFO  tests.TestBase - Start method  --> quicktest
 Im Quick test
-13:29:50 [Test worker] INFO  tests.TestBase - End of method --> quicktest
+14:12:06 [Test worker] INFO  tests.TestBase - End of method --> quicktest
 ]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634}) on port 34461
+  <system-err><![CDATA[Starting ChromeDriver 92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634}) on port 46714
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Aug 20, 2021 1:29:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Aug 20, 2021 2:12:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>

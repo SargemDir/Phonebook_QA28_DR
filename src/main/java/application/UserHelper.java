@@ -48,4 +48,9 @@ public class UserHelper extends HelperBase {
         new WebDriverWait(wd, 10).until(ExpectedConditions.visibilityOf(wd.findElement(By.xpath("//*[.='ADD']"))));
 
     }
+
+    public void acceptAlert(){
+        new WebDriverWait(wd,10).until(ExpectedConditions.alertIsPresent());
+        wd.switchTo().alert().accept();
+    }
 }

@@ -35,8 +35,6 @@ public class LoginTest extends TestBase {
         Assert.assertTrue(app.userHelper().isLogged());
     }
 
-
-
     @Test(dataProvider = "validLoginDataClassDP", dataProviderClass = MyDataProvider.class)
     public void loginTestDataProviderClass(String email, String password) {
         User user = new User()
@@ -59,5 +57,19 @@ public class LoginTest extends TestBase {
         app.userHelper().clickOkButtonLogIn();
         app.userHelper().waitForVisiblity(By.xpath("//*[.='Sign Out']"));
         Assert.assertTrue(app.userHelper().isLogged());
+    }
+
+    @Test
+    public void loginTestWithInvalidPassword() {
+        User user = new User()
+                .withEmail("anat@gmail.com")
+                .withPassword("Aa12345");
+
+        app.userHelper().openLoginForm();
+        app.userHelper().fillLoginForm(user);
+        logger.info("Login with --> email: \"" + user.getEmail() + "\", password: \"" + user.getPassword() + "\"");
+        app.userHelper().clickOkButtonLogIn();
+        app.userHelper().acceptAlert();
+        Assert.assertFalse(app.userHelper().isLogged());
     }
 }

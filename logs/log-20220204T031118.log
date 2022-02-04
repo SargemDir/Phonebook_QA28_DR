@@ -1,0 +1,14 @@
+03:11:21 INFO  application.AppManager - Start in browser CHROME
+03:11:23 INFO  tests.TestBase - Start method  --> loginTestWithInvalidPassword
+03:11:23 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+03:11:33 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+03:11:33 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+03:11:33 INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+03:11:33 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+03:11:33 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+03:11:33 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+03:11:33 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+03:11:33 INFO  tests.TestBase - Login with --> email: "anat@gmail.com", password: "Aa12345"
+03:11:33 INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+03:11:34 INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+03:11:44 INFO  tests.TestBase - End of method --> loginTestWithInvalidPassword

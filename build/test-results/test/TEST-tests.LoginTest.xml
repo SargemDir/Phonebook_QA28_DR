@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-04T01:20:22" hostname="WIN-VLIAFR1P8UG" time="12.132">
+  <properties/>
+  <testcase name="loginTestWithInvalidPassword" classname="tests.LoginTest" time="12.132"/>
+  <system-out><![CDATA[03:20:11 [Test worker] INFO  application.AppManager - Start in browser CHROME
+03:20:12 [Test worker] INFO  tests.TestBase - Start method  --> loginTestWithInvalidPassword
+03:20:12 [Test worker] INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+03:20:22 [Test worker] INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+03:20:22 [Test worker] INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+03:20:22 [Test worker] INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+03:20:22 [Test worker] INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+03:20:22 [Test worker] INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+03:20:22 [Test worker] INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+03:20:22 [Test worker] INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+03:20:22 [Test worker] INFO  tests.TestBase - Login with --> email: "anat@gmail.com", password: "Aa22345$"
+03:20:22 [Test worker] INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+03:20:22 [Test worker] INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+03:20:24 [Test worker] INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+03:20:34 [Test worker] INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+03:20:34 [Test worker] INFO  tests.TestBase - End of method --> loginTestWithInvalidPassword
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}) on port 29510
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Feb 04, 2022 3:20:10 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

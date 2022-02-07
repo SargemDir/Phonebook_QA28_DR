@@ -2,10 +2,14 @@
 
 <suite name="Reg" verbose="1" >
 
+    <groups>
+        <run>
+            <include name="web"/>
+        </run>
+    </groups>
 
     <test name="Reg">
         <classes>
-
             <class name="tests.SmokeTest"/>
             <class name="tests.QuickTest"/>
             <class name="tests.LoginTest"/>

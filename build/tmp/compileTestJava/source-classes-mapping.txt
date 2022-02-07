@@ -2,11 +2,11 @@ tests/RemoveContactTest.java
  tests.RemoveContactTest
 tests/SmokeTest.java
  tests.SmokeTest
-tests/QuickTest.java
- tests.QuickTest
+tests/LoginTest.java
+ tests.LoginTest
 tests/TestBase.java
  tests.TestBase
 tests/AddContactTest.java
  tests.AddContactTest
-tests/LoginTest.java
- tests.LoginTest
+tests/QuickTest.java
+ tests.QuickTest

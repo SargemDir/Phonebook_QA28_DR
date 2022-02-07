@@ -31,11 +31,10 @@ test {
 task reg(type: Test){
     useTestNG(){
 
-        def groups =System.getProperty('groups')
+        def groups=System.getProperty('groups')
         if(groups!=null){
             includeGroups groups
         }
-
 
         def suite=System.getProperty('suite','')
 
@@ -46,7 +45,6 @@ task reg(type: Test){
         }else{
             suites 'src/test/resources/testng.xml'
         }
-
     }
 
     if(project.hasProperty('browser')){

@@ -4,10 +4,7 @@ import application.AppManager;
 import org.openqa.selenium.remote.BrowserType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.*;
 
 import java.lang.reflect.Method;
 
@@ -25,12 +22,12 @@ public class TestBase {
         logger.info("End of method --> " + m.getName());
     }
 
-    @BeforeClass
+    @BeforeSuite(alwaysRun = true)
     public void start() {
         app.start();
     }
 
-    @AfterClass
+    @AfterSuite(alwaysRun = true)
     public void tearDown() {
         app.stop();
     }

@@ -1,0 +1,37 @@
+20:42:21 INFO  application.AppManager - Start in browser CHROME
+20:42:26 INFO  tests.TestBase - Start method  --> NegativeAddContactWithoutEmail
+20:42:26 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:27 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:42:27 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+20:42:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:27 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:27 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:27 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:27 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:27 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:27 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:27 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:27 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:27 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:27 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:27 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:28 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:28 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:28 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:28 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:28 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:28 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:28 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:42:28 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:42:29 INFO  application.AppManager - Start in browser CHROME
+20:42:30 INFO  tests.TestBase - Start method  --> loginTestBase
+20:42:30 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']

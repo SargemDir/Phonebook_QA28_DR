@@ -1,5 +1,0 @@
-23:01:44 INFO  application.AppManager - Start in browser CHROME
-23:02:38 INFO  tests.TestBase - Start method  --> addContactTestBase
-23:02:38 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
-23:02:48 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
-23:02:48 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']

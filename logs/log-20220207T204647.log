@@ -1,0 +1,1200 @@
+20:46:57 INFO  application.AppManager - Start in browser FIREFOX
+20:46:59 INFO  tests.TestBase - Start method  --> NegativeAddContactWithoutEmail
+20:46:59 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:47:10 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:47:10 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+20:47:10 INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+20:47:10 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+20:47:10 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+20:47:10 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+20:47:10 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+20:47:10 INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+20:47:10 INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+20:47:11 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='ADD']
+20:47:12 INFO  application.MyListener - The element -->By.xpath: //*[.='ADD']was found
+20:47:12 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:47:12 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:47:12 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:47:12 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:47:13 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:47:13 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:47:13 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:47:13 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:47:13 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:47:13 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:47:14 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:47:14 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:47:14 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:47:14 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:47:14 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:47:14 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:47:14 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:47:15 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:47:15 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:47:15 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:47:15 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:47:15 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:47:15 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:47:15 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:47:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:47:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:47:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:47:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:47:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:47:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:47:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:47:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:47:17 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:47:17 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:47:17 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:47:17 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:47:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:47:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:47:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:47:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:47:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:47:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:47:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:47:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:47:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:47:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:47:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:47:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:47:19 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:47:19 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:47:19 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:47:29 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:47:29 INFO  tests.TestBase - End of method --> NegativeAddContactWithoutEmail
+20:47:29 INFO  tests.TestBase - Start method  --> NegativeAddContactWithoutPhone
+20:47:29 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:47:29 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:47:29 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:47:29 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:47:30 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:47:30 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:47:30 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:47:30 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:47:30 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:47:30 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:47:30 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:47:30 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:47:31 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:47:31 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:47:31 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:47:31 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:47:31 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:47:31 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:47:32 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:47:32 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:47:32 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:47:32 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:47:32 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:47:32 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:47:33 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:47:33 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:47:33 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:47:33 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:47:33 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:47:33 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:47:33 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:47:33 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:47:34 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:47:34 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:47:34 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:47:34 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:47:34 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:47:44 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:47:44 INFO  tests.TestBase - End of method --> NegativeAddContactWithoutPhone
+20:47:44 INFO  tests.TestBase - Start method  --> NegativeAddSameContact
+20:47:44 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:47:44 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:47:44 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:47:44 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:47:45 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:47:45 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:47:45 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:47:45 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:47:45 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:47:45 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:47:45 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:47:45 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:47:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:47:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:47:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:47:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:47:46 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:47:46 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:47:47 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:47:47 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:47:47 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:47:47 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:47:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:47:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:47:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:47:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:47:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:47:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:47:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:47:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:47:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:47:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:47:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:47:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:47:50 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:47:50 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:47:52 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:47:52 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:47:52 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:47:52 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:47:53 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:47:53 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:47:53 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:47:53 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:47:53 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:47:53 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:47:54 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:47:54 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:47:54 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:47:54 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:47:54 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:47:54 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:47:54 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:04 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:04 INFO  tests.TestBase - End of method --> NegativeAddSameContact
+20:48:04 INFO  tests.TestBase - Start method  --> addContactTestBase
+20:48:04 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:48:04 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:48:04 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:48:04 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:48:05 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:48:05 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:48:05 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:48:05 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:48:05 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:48:05 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:48:06 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:48:06 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:48:06 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:48:06 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:48:06 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:48:06 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:48:07 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:48:07 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:48:07 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:48:07 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:48:07 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:48:07 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:48:07 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:48:07 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:48:08 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:48:08 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:48:08 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:48:08 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:48:08 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:48:08 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:48:08 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:48:08 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:48:09 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:48:09 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:48:09 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:48:09 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:48:09 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:48:09 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:48:09 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:09 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:09 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:09 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:09 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:09 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:09 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:10 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:10 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:48:10 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:48:12 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:12 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:12 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:12 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:12 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:12 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:12 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:12 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:12 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:48:12 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:48:15 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:15 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:15 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:15 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:15 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:15 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:15 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:15 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:15 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:48:15 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:48:17 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:17 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:17 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:17 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:17 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:17 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:17 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:17 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:17 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:48:17 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:48:20 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:20 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:20 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:20 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:20 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:20 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:20 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:20 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:20 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:48:20 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:48:22 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:22 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:22 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:22 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:22 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:22 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:22 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:22 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:23 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:48:23 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:48:25 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:35 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:35 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:45 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:45 INFO  tests.TestBase - End of method --> addContactTestBase
+20:48:45 INFO  tests.TestBase - Start method  --> addContactTestBase
+20:48:45 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:48:45 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:48:45 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:48:45 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:48:45 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:48:45 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:48:45 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:48:45 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:48:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:48:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:48:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:48:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:48:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:48:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:48:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:48:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:48:47 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:48:47 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:48:47 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:48:47 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:48:47 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:48:47 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:48:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:48:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:48:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:48:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:48:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:48:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:48:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:48:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:48:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:48:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:48:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:48:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:48:49 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:48:50 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:48:50 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:48:50 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:48:50 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:50 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:50 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:50 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:50 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:50 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:50 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:50 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:50 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:48:50 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:48:52 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:52 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:52 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:52 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:52 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:52 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:52 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:48:52 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:48:53 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:48:53 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:48:55 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:05 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:05 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:15 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:15 INFO  tests.TestBase - End of method --> addContactTestBase
+20:49:15 INFO  tests.TestBase - Start method  --> addContactTestBase
+20:49:15 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:49:15 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:49:15 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:49:15 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:49:15 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:49:15 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:49:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:49:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:49:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:49:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:49:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:49:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:49:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:49:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:49:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:49:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:49:17 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:49:17 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:49:17 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:49:18 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:49:18 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:49:18 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:49:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:49:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:49:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:49:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:49:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:49:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:49:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:49:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:49:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:49:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:49:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:49:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:49:20 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:49:20 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:49:20 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:49:20 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:49:20 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:20 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:20 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:20 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:20 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:20 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:20 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:20 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:20 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:49:20 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:49:22 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:23 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:23 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:23 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:23 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:23 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:23 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:23 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:23 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:49:23 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:49:25 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:35 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:35 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:45 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:45 INFO  tests.TestBase - End of method --> addContactTestBase
+20:49:45 INFO  tests.TestBase - Start method  --> addContactTestBase
+20:49:45 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:49:45 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:49:45 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:49:45 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:49:45 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:49:45 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:49:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:49:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:49:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:49:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:49:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:49:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:49:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:49:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:49:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:49:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:49:47 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:49:47 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:49:47 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:49:48 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:49:48 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:49:48 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:49:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:49:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:49:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:49:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:49:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:49:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:49:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:49:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:49:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:49:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:49:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:49:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:49:50 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:49:50 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:49:50 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:49:50 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:49:50 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:50 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:50 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:50 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:50 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:50 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:50 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:50 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:50 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:49:50 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:49:53 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:53 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:53 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:53 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:53 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:53 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:53 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:49:53 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:49:53 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:49:53 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:49:55 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:05 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:05 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:15 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:15 INFO  tests.TestBase - End of method --> addContactTestBase
+20:50:15 INFO  tests.TestBase - Start method  --> addContactTestBase
+20:50:15 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:50:15 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:50:15 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:50:15 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:50:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:50:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:50:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:50:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:50:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:50:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:50:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:50:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:50:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:50:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:50:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:50:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:50:17 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:50:17 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:50:18 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:50:18 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:50:18 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:50:18 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:50:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:50:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:50:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:50:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:50:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:50:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:50:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:50:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:50:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:50:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:50:20 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:50:20 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:50:20 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:50:20 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:50:20 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:50:20 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:50:20 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:20 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:20 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:20 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:20 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:20 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:20 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:20 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:21 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:50:21 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:50:23 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:23 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:23 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:23 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:23 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:23 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:23 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:23 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:23 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:50:23 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:50:25 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:35 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:35 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:45 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:45 INFO  tests.TestBase - End of method --> addContactTestBase
+20:50:45 INFO  tests.TestBase - Start method  --> addContactTestBase
+20:50:45 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:50:45 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:50:45 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:50:45 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:50:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:50:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:50:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:50:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:50:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:50:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:50:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:50:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:50:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:50:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:50:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:50:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:50:48 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:50:48 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:50:48 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:50:48 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:50:48 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:50:48 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:50:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:50:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:50:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:50:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:50:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:50:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:50:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:50:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:50:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:50:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:50:50 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:50:50 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:50:50 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:50:50 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:50:50 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:50:50 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:50:50 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:50 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:50 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:50 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:50 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:51 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:51 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:51 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:51 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:50:51 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:50:53 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:53 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:53 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:53 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:53 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:53 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:53 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:50:53 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:50:53 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:50:53 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:50:56 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:06 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:06 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:16 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:16 INFO  tests.TestBase - End of method --> addContactTestBase
+20:51:16 INFO  tests.TestBase - Start method  --> addContactTestBase
+20:51:16 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:51:16 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:51:16 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:51:16 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:51:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:51:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:51:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:51:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:51:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:51:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:51:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:51:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:51:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:51:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:51:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:51:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:51:18 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:51:18 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:51:18 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:51:18 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:51:18 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:51:18 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:51:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:51:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:51:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:51:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:51:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:51:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:51:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:51:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:51:20 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:51:20 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:51:20 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:51:20 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:51:20 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:51:20 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:51:20 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:51:21 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:51:21 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:21 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:21 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:21 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:21 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:21 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:21 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:21 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:21 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:51:21 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:51:23 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:23 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:23 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:23 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:23 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:23 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:23 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:23 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:23 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:51:23 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:51:26 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:36 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:36 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:46 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:46 INFO  tests.TestBase - End of method --> addContactTestBase
+20:51:46 INFO  tests.TestBase - Start method  --> addContactTestCSV
+20:51:46 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:51:46 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:51:46 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:51:46 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:51:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:51:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:51:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:51:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:51:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:51:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:51:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:51:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:51:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:51:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:51:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:51:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:51:48 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:51:48 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:51:48 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:51:48 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:51:48 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:51:48 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:51:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:51:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:51:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:51:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:51:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:51:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:51:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:51:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:51:50 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:51:50 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:51:50 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:51:50 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:51:50 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:51:50 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:51:51 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:51:51 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:51:51 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:51 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:51 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:51 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:51 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:51 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:51 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:51 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:51 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:51:51 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:51:54 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:54 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:54 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:54 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:54 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:54 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:54 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:51:54 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:51:54 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:51:54 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:51:56 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:06 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:06 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:16 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:16 INFO  tests.TestBase - End of method --> addContactTestCSV
+20:52:16 INFO  tests.TestBase - Start method  --> addContactTestCSV
+20:52:16 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:52:16 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:52:16 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:52:16 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:52:16 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:52:16 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:52:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:52:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:52:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:52:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:52:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:52:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:52:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:52:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:52:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:52:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:52:18 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:52:18 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:52:18 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:52:19 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:52:19 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:52:19 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:52:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:52:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:52:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:52:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:52:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:52:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:52:20 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:52:20 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:52:20 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:52:20 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:52:20 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:52:20 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:52:21 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:52:21 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:52:21 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:52:21 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:52:21 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:21 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:21 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:21 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:21 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:21 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:21 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:21 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:21 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:52:21 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:52:23 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:24 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:24 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:24 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:24 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:24 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:24 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:24 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:24 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:52:24 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:52:26 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:36 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:36 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:46 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:46 INFO  tests.TestBase - End of method --> addContactTestCSV
+20:52:46 INFO  tests.TestBase - Start method  --> addContactTestDataProvider
+20:52:46 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:52:46 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:52:46 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:52:46 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:52:46 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:52:46 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:52:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:52:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:52:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:52:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:52:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:52:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:52:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:52:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:52:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:52:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:52:48 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:52:48 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:52:48 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:52:49 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:52:49 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:52:49 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:52:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:52:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:52:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:52:49 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:52:49 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:52:50 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:52:50 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:52:50 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:52:50 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:52:50 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:52:50 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:52:50 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:52:51 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:52:51 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:52:51 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:52:51 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:52:51 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:51 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:51 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:51 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:51 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:51 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:51 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:51 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:51 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:52:51 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:52:54 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:54 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:54 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:54 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:54 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:54 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:54 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:52:54 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:52:54 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:52:54 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:52:56 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:06 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:06 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:16 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:16 INFO  tests.TestBase - End of method --> addContactTestDataProvider
+20:53:16 INFO  tests.TestBase - Start method  --> addContactTestDataProvider
+20:53:16 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:53:16 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:53:16 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:53:16 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:53:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:53:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:53:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:53:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:53:17 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:53:17 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:53:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:53:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:53:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:53:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:53:18 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:53:18 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:53:18 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:53:18 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:53:19 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:53:19 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:53:19 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:53:19 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:53:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:53:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:53:19 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:53:19 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:53:20 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:53:20 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:53:20 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:53:20 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:53:20 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:53:20 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:53:21 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:53:21 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:53:21 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:53:21 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:53:21 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:53:21 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:53:21 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:21 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:21 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:21 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:21 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:21 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:21 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:21 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:22 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:53:22 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:53:24 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:24 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:24 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:24 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:24 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:24 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:24 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:24 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:24 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:53:24 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:53:26 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:36 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:36 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:46 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:46 INFO  tests.TestBase - End of method --> addContactTestDataProvider
+20:53:46 INFO  tests.TestBase - Start method  --> addContactTestDataProvider
+20:53:46 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:53:46 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:53:46 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:53:47 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:53:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:53:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:53:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:53:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:53:47 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:53:47 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:53:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:53:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:53:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:53:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:53:48 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:53:48 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:53:49 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:53:49 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:53:49 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:53:49 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:53:49 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:53:49 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:53:50 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:53:50 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:53:50 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:53:50 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:53:51 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:53:51 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:53:52 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:53:52 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:53:52 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:53:52 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:53:52 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:53:52 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:53:53 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:53:53 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:53:53 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:53:53 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:53:53 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:53 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:53 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:53 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:53 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:53 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:53 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:53 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:53 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:53:53 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:53:56 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:56 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:56 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:56 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:56 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:56 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:56 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:53:56 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:53:56 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:53:56 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:53:59 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:54:09 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:54:09 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:54:19 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:54:19 INFO  tests.TestBase - End of method --> addContactTestDataProvider
+20:54:26 INFO  application.AppManager - Start in browser FIREFOX
+20:54:28 INFO  tests.TestBase - Start method  --> loginTestBase
+20:54:28 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:38 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:38 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+20:54:38 INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+20:54:38 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+20:54:38 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+20:54:39 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+20:54:39 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+20:54:39 INFO  tests.TestBase - Login with --> email: "anat@gmail.com", password: "Aa12345$"
+20:54:39 INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+20:54:39 INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+20:54:39 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:40 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:40 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:40 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:40 INFO  tests.TestBase - End of method --> loginTestBase
+20:54:40 INFO  tests.TestBase - Start method  --> loginTestDP_CSV
+20:54:40 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:40 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:40 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:40 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:41 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+20:54:41 INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+20:54:41 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+20:54:41 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+20:54:41 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+20:54:41 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+20:54:42 INFO  tests.TestBase - Login with --> email: "anat@gmail.com", password: "Aa12345$"
+20:54:42 INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+20:54:42 INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+20:54:42 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:42 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:42 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:42 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:42 INFO  tests.TestBase - End of method --> loginTestDP_CSV
+20:54:42 INFO  tests.TestBase - Start method  --> loginTestDP_CSV
+20:54:42 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:42 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:42 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:42 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:42 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+20:54:42 INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+20:54:42 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+20:54:42 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+20:54:43 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+20:54:43 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+20:54:43 INFO  tests.TestBase - Login with --> email: "anata@gmail.com", password: "Aa12345$"
+20:54:43 INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+20:54:43 INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+20:54:43 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:43 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:43 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:43 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:43 INFO  tests.TestBase - End of method --> loginTestDP_CSV
+20:54:43 INFO  tests.TestBase - Start method  --> loginTestDP_CSV
+20:54:43 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:43 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:43 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:43 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:44 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+20:54:44 INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+20:54:44 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+20:54:44 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+20:54:44 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+20:54:44 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+20:54:44 INFO  tests.TestBase - Login with --> email: "anatan@gmail.com", password: "Aa12345$"
+20:54:44 INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+20:54:44 INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+20:54:45 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:45 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:45 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:45 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:45 INFO  tests.TestBase - End of method --> loginTestDP_CSV
+20:54:45 INFO  tests.TestBase - Start method  --> loginTestDataProviderClass
+20:54:45 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:45 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:45 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:45 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:45 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+20:54:45 INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+20:54:45 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+20:54:45 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+20:54:45 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+20:54:46 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+20:54:46 INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+20:54:46 INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+20:54:46 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='CONTACTS']
+20:54:46 INFO  application.MyListener - The element -->By.xpath: //a[.='CONTACTS']was found
+20:54:46 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:46 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:46 INFO  tests.TestBase - End of method --> loginTestDataProviderClass
+20:54:46 INFO  tests.TestBase - Start method  --> loginTestDataProviderClass
+20:54:46 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:46 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:46 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:46 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:46 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+20:54:46 INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+20:54:47 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+20:54:47 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+20:54:47 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+20:54:47 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+20:54:47 INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+20:54:47 INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+20:54:47 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='CONTACTS']
+20:54:48 INFO  application.MyListener - The element -->By.xpath: //a[.='CONTACTS']was found
+20:54:48 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:48 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:48 INFO  tests.TestBase - End of method --> loginTestDataProviderClass
+20:54:48 INFO  tests.TestBase - Start method  --> loginTestDataProviderClass
+20:54:48 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:48 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:48 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:48 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:48 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+20:54:48 INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+20:54:48 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+20:54:48 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+20:54:48 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+20:54:48 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+20:54:49 INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+20:54:49 INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+20:54:49 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='CONTACTS']
+20:54:49 INFO  application.MyListener - The element -->By.xpath: //a[.='CONTACTS']was found
+20:54:49 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:49 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:49 INFO  tests.TestBase - End of method --> loginTestDataProviderClass
+20:54:49 INFO  tests.TestBase - Start method  --> loginTestWithInvalidPassword
+20:54:49 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:49 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:49 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:54:49 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:54:49 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+20:54:49 INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+20:54:49 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+20:54:49 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+20:54:50 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+20:54:50 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+20:54:50 INFO  tests.TestBase - Login with --> email: "anat@gmail.com", password: "Aa12345"
+20:54:50 INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+20:54:50 INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+20:54:51 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:55:01 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:55:01 INFO  tests.TestBase - End of method --> loginTestWithInvalidPassword
+20:55:07 INFO  application.AppManager - Start in browser FIREFOX
+20:55:09 INFO  tests.TestBase - Start method  --> quicktest
+20:55:09 INFO  tests.TestBase - End of method --> quicktest
+20:55:16 INFO  application.AppManager - Start in browser FIREFOX
+20:55:18 INFO  tests.TestBase - Start method  --> removeAllContacts
+20:55:18 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:55:28 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:55:28 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='LOGIN']
+20:55:29 INFO  application.MyListener - The element -->By.xpath: //a[.='LOGIN']was found
+20:55:29 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Email']
+20:55:29 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Email']was found
+20:55:29 INFO  application.MyListener - Start find element by -->By.xpath: //input[@placeholder='Password']
+20:55:29 INFO  application.MyListener - The element -->By.xpath: //input[@placeholder='Password']was found
+20:55:29 INFO  application.MyListener - Start find element by -->By.xpath: //button[.=' Login']
+20:55:29 INFO  application.MyListener - The element -->By.xpath: //button[.=' Login']was found
+20:55:30 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='ADD']
+20:55:31 INFO  application.MyListener - The element -->By.xpath: //*[.='ADD']was found
+20:55:31 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:55:31 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:55:32 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:55:32 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:55:32 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:55:32 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:55:32 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:55:32 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:55:32 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:55:33 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:55:33 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:55:33 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:55:33 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:55:33 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:55:33 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:55:33 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:55:34 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:55:34 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:55:34 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:55:34 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:55:34 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:55:34 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:55:34 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:55:34 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:55:34 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:55:34 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:55:34 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:55:34 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:55:36 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:55:46 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:55:46 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:55:56 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:55:56 INFO  tests.TestBase - End of method --> removeAllContacts
+20:55:56 INFO  tests.TestBase - Start method  --> removeOneContact
+20:55:56 INFO  application.MyListener - Start find element by -->By.xpath: //*[.='Sign Out']
+20:55:56 INFO  application.MyListener - The element -->By.xpath: //*[.='Sign Out']was found
+20:55:56 INFO  application.MyListener - Start find element by -->By.xpath: //a[.='ADD']
+20:55:57 INFO  application.MyListener - The element -->By.xpath: //a[.='ADD']was found
+20:55:57 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Name']
+20:55:57 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Name']was found
+20:55:57 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Last Name']
+20:55:57 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Last Name']was found
+20:55:57 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Phone']
+20:55:57 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Phone']was found
+20:55:58 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='email']
+20:55:58 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='email']was found
+20:55:58 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='Address']
+20:55:58 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='Address']was found
+20:55:58 INFO  application.MyListener - Start find element by -->By.cssSelector: [placeholder='description']
+20:55:58 INFO  application.MyListener - The element -->By.cssSelector: [placeholder='description']was found
+20:55:58 INFO  application.MyListener - Start find element by -->By.xpath: //b[.='Save']
+20:55:58 INFO  application.MyListener - The element -->By.xpath: //b[.='Save']was found
+20:55:59 INFO  application.MyListener - Start find element by -->By.xpath: //h3
+20:55:59 INFO  application.MyListener - The element -->By.xpath: //h3was found
+20:55:59 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:55:59 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:55:59 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:55:59 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:55:59 INFO  application.MyListener - Start find element by -->By.xpath: //button[.='Remove']
+20:55:59 INFO  application.MyListener - The element -->By.xpath: //button[.='Remove']was found
+20:56:01 INFO  application.MyListener - Start find element by -->By.cssSelector: .contact-item_card__2SOIM
+20:56:11 INFO  application.MyListener - The element -->By.cssSelector: .contact-item_card__2SOIMwas found
+20:56:11 INFO  tests.TestBase - End of method --> removeOneContact
+20:56:18 INFO  application.AppManager - Start in browser FIREFOX
+20:56:20 INFO  tests.TestBase - Start method  --> smokeTest
+20:56:20 INFO  tests.TestBase - End of method --> smokeTest

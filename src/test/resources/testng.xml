@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="Reg" verbose="1" >
+<suite name="Reg" verbose="1">
 
     <groups>
         <run>
@@ -10,8 +10,6 @@
 
     <test name="Reg">
         <classes>
-            <class name="tests.SmokeTest"/>
-            <class name="tests.QuickTest"/>
             <class name="tests.LoginTest"/>
             <class name="tests.AddContactTest"/>
             <class name="tests.RemoveContactTest"/>

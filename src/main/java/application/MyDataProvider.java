@@ -16,7 +16,6 @@ public class MyDataProvider {
         list.add(new Object[]{"anat@gmail.com", "Aa12345$"});
         list.add(new Object[]{"anata@gmail.com", "Aa12345$"});
         list.add(new Object[]{"anatan@gmail.com", "Aa12345$"});
-
         return list.iterator();
     }
 

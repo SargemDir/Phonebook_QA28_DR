@@ -38,9 +38,9 @@ task reg(type: Test){
 
         def suite=System.getProperty('suite','')
 
-        if(suite.equals('quick')){
+        if(suite == 'quick'){
             suites 'src/test/resources/quick.xml'
-        }else if(suite.equals('smoke')){
+        }else if(suite == 'smoke'){
             suites 'src/test/resources/smoke.xml'
         }else{
             suites 'src/test/resources/testng.xml'

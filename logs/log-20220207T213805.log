@@ -1,3 +1,0 @@
-21:38:11 INFO  application.AppManager - Start in browser FIREFOX
-21:38:13 INFO  tests.TestBase - Start method  --> smokeTest
-21:38:13 INFO  tests.TestBase - End of method --> smokeTest
